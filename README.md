@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @navodit99
+- 👋 Hi, I’m Navodit Nain
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently DSA
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on projects
 - 📫 Linkedin (https://www.linkedin.com/in/navodit99/)
 
